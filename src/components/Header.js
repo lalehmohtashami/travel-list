@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <>
-      <h1>Far Away</h1>
+      <h1>🏝️ Far Away 🧳</h1>
     </>
   );
 }
